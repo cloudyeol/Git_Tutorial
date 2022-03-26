@@ -7,6 +7,9 @@ int add(int a, int b){
 return a+b;
 };
 
+double sub(int a, int b){
+return a/b;
+};
 
 
 int main(){
