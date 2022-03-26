@@ -13,7 +13,7 @@ return a/b;
 int mul (int a, int b){
 return a*b;
 };
-
+//main 주석 추가
 
 int main(){
 
